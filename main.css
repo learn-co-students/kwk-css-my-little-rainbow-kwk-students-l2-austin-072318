@@ -13,3 +13,31 @@ div {
 #violet {
   background-color: blue;
 }
+
+#red { /* this selects any elements with the red id */
+  border-top-color: #f00;
+}
+
+#orange {
+  border-top-color: orange;
+}
+
+#indigo {
+  border-top-color: hotpink;
+}
+
+#yellow {
+  border-top-color: yellow;
+}
+
+ #green { 
+   border-top-color: green;
+}
+
+#blue {
+  border-top-color: blue;
+}
+
+#violet {
+  border-top-color: purple;
+}
