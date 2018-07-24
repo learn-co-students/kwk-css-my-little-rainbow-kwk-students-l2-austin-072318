@@ -13,3 +13,27 @@ div {
 #violet {
   background-color: blue;
 }
+
+#first_color {
+  border-top-color:red;
+}
+#second_color {
+  border-top-color:orange;
+}
+#third_color {
+  border-top-color:yellow;
+}
+#fourth_color {
+  border-top-color:green;
+}
+#fifth_color {
+  border-top-color:blue;
+}
+#sixth-color {
+  border-top-color:purple;
+}
+#seventh_color{
+  border-top-color:olive;
+}
+
+
